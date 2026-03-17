@@ -8,8 +8,8 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to view the site](https://nikitayadav19.github.io/HappyBirthdayGF)  
-
+👉 [Click here to view the site]
+https://ankitsinghup4507-stack.github.io/HappyBirthdayGF/
 ---
 
 
